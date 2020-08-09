@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Blue and Black Modern Resume](https://user-images.githubusercontent.com/61494224/89742248-d70b5000-dab5-11ea-8516-1470f5e7772d.jpg)
+
 [resume_Yash_Vaishnav.pdf](https://github.com/yash-alt/yash-alt/files/5048432/resume_Yash_Vaishnav.pdf)
